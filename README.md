@@ -14,11 +14,15 @@
 
 ---
 
+## 09.29 九届IT程序设计部10月训练计划上传
+
+链接: https://github.com/HNU-ITEA-Official/9th-HNU-ITEA/blob/main/Preparation/Pre_Training_10_01.md
+
+
+---
+
 
 ## 09.22 程序设计入门题集AC代码上传
 
 链接： https://github.com/HNU-ITEA-Official/9th-HNU-ITEA/tree/main/Preparation/Beginning
 
-
-
-<!-- ##  -->

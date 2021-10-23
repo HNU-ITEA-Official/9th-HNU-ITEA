@@ -14,6 +14,10 @@
 
 ---
 
+## 10.23 第一次周赛 AC代码 已上传
+
+链接：https://github.com/HNU-ITEA-Official/9th-HNU-ITEA/tree/main/WPC/1st-FrostDescent/AC_Code
+
 ## 09.29 九届IT程序设计部10月训练计划上传
 
 链接: https://github.com/HNU-ITEA-Official/9th-HNU-ITEA/blob/main/Preparation/Pre_Training_10_01.md

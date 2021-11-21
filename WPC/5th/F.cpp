@@ -1,5 +1,4 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <stdio.h>
 
 int hs[15] = {0};
 int arr[15];
@@ -14,9 +13,10 @@ bool judge(int x) {
 
 int main() {
     int n;
-    cin >> n;
+    scanf("%d", &n);
     for(int i = 0;i < n;i++) {
-        cin >> arr[i];
+        scanf("%d", &arr[i]);
+        getchar();
         hs[arr[i]]++;
     }
     int x, y, z, count = 0;
@@ -37,6 +37,6 @@ int main() {
             }
         }
     }
-    cout << count << endl;
+    printf("%d", count);
     return 0;
 }
